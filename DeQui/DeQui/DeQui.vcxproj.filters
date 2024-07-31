@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="DeQui.cpp">
+    <ClCompile Include="1denN.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Bai1_cau_n_chia_n_cong1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
