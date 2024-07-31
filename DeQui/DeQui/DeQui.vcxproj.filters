@@ -24,5 +24,8 @@
     <ClCompile Include="bai1_1_chia_2n_cong_1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Bai1_n_nhan_n_cong_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
